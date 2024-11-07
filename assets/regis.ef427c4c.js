@@ -1,0 +1,1 @@
+import{b as o}from"./index.640fc71d.js";import{C as t,L as r}from"./notifHelper.5b82670f.js";import"./QCalendar.c936b442.js";import"./QCalendarTask.acd5225c.js";t.getPlatform();var p=o(async({})=>{r.doPrint()});export{p as default};
